@@ -1,2 +1,2 @@
 [kubernetes]
-localhost ansible_ssh_port=42006 ansible_ssh_user=ansible ansible_ssh_pass=ansible
+127.0.0.1 ansible_ssh_port=42006 ansible_ssh_user=ansible ansible_ssh_pass=ansible
