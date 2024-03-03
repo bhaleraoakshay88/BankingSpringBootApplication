@@ -1,2 +1,2 @@
 [kubernetes]
-localhost ansible_port=22 ansible_ssh_user=jenkins
+localhost ansible_port=22 ansible_ssh_user=ansible
