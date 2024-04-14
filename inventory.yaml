@@ -1,2 +1,2 @@
 [kubernetes]
-localhost ansible_port=22 ansible_ssh_user=ansible
+b9f8f82d-4410-4aaa-9257-9d01f028f373@172.31.87.31 ansible_port=22 ansible_ssh_user=ansible
