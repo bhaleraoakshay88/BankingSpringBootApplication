@@ -1,2 +1,2 @@
 [kubernetes]
-ansible_port=22 ansible_ssh_user=ansible
+master.example.com ansible_port=22 ansible_ssh_user=ansible
